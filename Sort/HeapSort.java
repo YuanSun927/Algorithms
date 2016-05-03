@@ -1,5 +1,5 @@
 public class HeapSort {
-    
+
     public void heapSort(int[] a) {
         if (a == null || a.length < 2)
             return;
